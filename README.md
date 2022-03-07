@@ -7,4 +7,5 @@ After that, you will need to enter the extentions you would like the program to 
 
 ##### The script doesn't include empty lines when reading through the files in the project directory, only lines with actual code in it. I hope someone finds it helpful.
 
-##### Example of a fullpath is C:\Users\Kells\Documents\ProjectDirectory
+##### Enter Root Dir: C:\Users\Kells\Documents\ProjectDirectory
+##### Enter extentions seperated by a comma, no space: .py,.js,.html
